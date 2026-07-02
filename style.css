@@ -10,11 +10,19 @@
 
  .conteudo-principal{
     background-color: rgb(0, 0, 0);
-    color :rgb(255, 194, 225
-)
+    color :rgb(255, 194, 225)
  }
 
  .imagem-principal{
     width: 80px;
     height: 80px;
  }
+
+.cabecalho-paragrafo{
+font-weight: bold;
+text-decoration: italic;
+
+}
+.conteudo-principal-texto{
+    font-weight: bold;
+}
